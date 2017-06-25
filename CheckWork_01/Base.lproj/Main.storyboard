@@ -37,6 +37,7 @@
                     </view>
                     <connections>
                         <outlet property="imageView" destination="V6x-v6-Vyd" id="ZUk-Ka-xFz"/>
+                        <outlet property="label" destination="Zyd-OE-Ri5" id="SF5-4M-aOp"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
