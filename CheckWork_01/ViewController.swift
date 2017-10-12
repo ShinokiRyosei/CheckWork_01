@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet var imageView: UIImageView!
     @IBOutlet var label: UILabel!
     var timer: Timer = Timer()
+    var number: Int = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()
